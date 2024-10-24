@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+background-color: rgb(27, 149, 149);
+}
+
+.logo.col-md-4.h2{
+color: rgb(231, 244, 255);
+padding: 10px;
+}
+
+
+ ul{
+
+text-align: end;
+padding: 10px;
+
+}
+ul li{
+display: inline-block;
+background-color: crimson;
+padding: 5px 8px ;
+border-radius: 10px;
+box-shadow: none;
+text-align: end;
+margin-left: -4px;
+}
+
+ ul li a{
+color: aliceblue;
+text-decoration: none;
+display: inline-block;
+padding: 5px 8px;
+}
+
+.banner-section{
+background-image: url(./img/img/slider.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+text-align: center;
+}
+.banner-section h2 {
+    color: rgb(255, 0, 0);
+    height: 250px;
+    padding: 112px 0px;
+}
+.banner-section p {
+    color: rgb(219, 0, 0);
+    font-weight: bold;
+    background-color: rgb(88 222 233 / 24%);
+    border-radius: 17px;
+    padding: 15px 5px;
+    margin-bottom: 155px;
+}
+.banner-section button {
+    height: 40px;
+    width: 120px;
+    background-color: rgb(13, 98, 209);
+    margin: 10px 0px;
+    color: #ffffff;
+    -webkit-box-shadow: -9px 7px 41px 0px rgba(0,0,0,0.78);
+-moz-box-shadow: -9px 7px 41px 0px rgba(0,0,0,0.78);
+box-shadow: -9px 7px 41px 0px rgba(0,0,0,0.78);
+    transform: translate(22px, -96px);
+
+}
+
+.team-section{
+background-color: rgb(240, 215, 184);
+}
+
+.container h2{ 
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-shadow:2px 2px red;
+   font-size: 40px;
+}
+
+.photo-box{
+    text-align: center;
+    padding: 30px;
+}
+
+.photo-box h1{
+font-size: 18px;
+color:black; 
+padding: 10px 0px;  
+}
+.photo-box p{
+font-size: 15px;
+    
+}
+
+
+
+.photo-box button{
+ width: 120px;
+ hight:40px;
+ padding: 5px 0px;
+ color: red;
+ border-radius: 7px;
+}
+
+.about-section{
+background-color: rgb(242, 176, 140);
+padding: 40px;
+
+}
+.about-section h3{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    padding: 40px 0px;
+}
+.about-section.photo-box-1 img{
+  text-align: center;
+}
+
+
+.about-section p{
+    text-align: center;
+    padding: 20px 0px ;
+}
+
+.paragraph h1{
+    font-size: 20px;
+    text-align: center;
+
+}
+.paragraph p{
+text-align: center;
+}
+
+.contact-section{
+    background-color: rgba(102, 181, 217, 0.65);
+}
+.contact-section h4{
+  text-align: center;
+  font-size: 40px;
+  text-decoration: underline; 
+  padding: 20px 0px ; 
+}
+.contact-section.map{
+   padding: 40px 20px; 
+  margin: 20px 5px;
+}
+
+
+
+
+
+
+
+
+
